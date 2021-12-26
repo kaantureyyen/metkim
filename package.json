@@ -1,0 +1,19 @@
+{
+  "name": "metkim-website",
+  "version": "0.0.1",
+  "description": "Metkim Metal Kimya Website",
+  "main": "index.js",
+  "authors": {
+    "name": "Kaan Türeyyen",
+    "email": "admin@metkim.com"
+  },
+  "repository": "https://github.com/kaantureyyen/metkim/metkim-website",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
