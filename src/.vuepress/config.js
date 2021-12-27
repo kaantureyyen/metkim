@@ -34,7 +34,7 @@ module.exports = {
           },
           {
             text: 'İletişim',
-            link: '/'
+            link: '/contact/'
           },
           {
             text: 'Config',
@@ -71,15 +71,11 @@ module.exports = {
         nav: [
           {
             text: 'Guide',
-            link: '/about/',
+            link: '/en/about/',
           },
           {
-            text: 'İletişim',
-            link: '/'
-          },
-          {
-            text: 'Config',
-            link: '/config/'
+            text: 'Contact',
+            link: '/en/contact/'
           }
         ],
         sidebar: {
