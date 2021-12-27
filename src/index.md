@@ -1,15 +1,14 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
 tagline: Metkim Metal Kimya Website
-actionText: Quick Start →
-actionLink: /guide/
+actionText: Siteye Giriş
+actionLink: /about/
 features:
-- title: Feature 1 Title
+- title: Ilk baslik
   details: Feature 1 Description
-- title: Feature 2 Title
+- title: Haberler
   details: Feature 2 Description
 - title: Feature 3 Title
   details: Feature 3 Description
-footer: Made by Kaan Türeyyen with ❤️
+footer: Metkim 2022, © Tüm Hakları Saklıdır
 ---

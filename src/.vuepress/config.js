@@ -1,68 +1,102 @@
 const { description } = require('../../package')
 
 module.exports = {
-  /**
-   * Ref：https://v1.vuepress.vuejs.org/config/#title
-   */
-  title: 'Vuepress Docs Boilerplate',
-  /**
-   * Ref：https://v1.vuepress.vuejs.org/config/#description
-   */
-  description: description,
-
-  /**
-   * Extra tags to be injected to the page HTML `<head>`
-   *
-   * ref：https://v1.vuepress.vuejs.org/config/#head
-   */
+  locales: {
+    '/': {
+      lang: 'tr-TR',
+      title: 'Metkim Metal Kimya',
+      description: 'Metkim Metal Kimya Websitesi'
+    },
+    '/en/': {
+      lang: 'en-US',
+      title: 'Metkim',
+      description: 'Metkim Official Website'
+    }
+  },
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
-
-  /**
-   * Theme configuration, here is the default theme configuration for VuePress.
-   *
-   * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
-   */
   themeConfig: {
-    repo: '',
+    smoothScroll: true,
     editLinks: false,
-    docsDir: '',
-    editLinkText: '',
-    lastUpdated: false,
-    nav: [
-      {
-        text: 'Guide',
-        link: '/guide/',
-      },
-      {
-        text: 'Config',
-        link: '/config/'
-      },
-      {
-        text: 'VuePress',
-        link: 'https://v1.vuepress.vuejs.org'
-      }
-    ],
-    sidebar: {
-      '/guide/': [
-        {
-          title: 'Guide',
-          collapsable: false,
-          children: [
-            '',
-            'using-vue',
+    locales: {
+      '/': {
+        selectText: 'Diller',
+        label: 'Türkçe',
+        ariaLabel: 'Diller',
+        algolia: {},
+        nav: [
+          {
+            text: 'Rehber',
+            link: '/about/',
+          },
+          {
+            text: 'İletişim',
+            link: '/'
+          },
+          {
+            text: 'Config',
+            link: '/config/'
+          }
+        ],
+        sidebar: {
+          '/about/': [
+            {
+              title: 'Şirket',
+              collapsable: false,
+              children: [
+                '',
+                'references'
+              ]
+            }
+          ],
+          '/partners/': [
+            {
+              title: 'Çözüm Ortakları',
+              collapsable: false,
+              children: [
+                '',
+                'references'
+              ]
+            }
           ]
         }
-      ],
-    }
+      },
+      '/en/': {
+        selectText: 'Languages',
+        label: 'English',
+        ariaLabel: 'Languages',
+        nav: [
+          {
+            text: 'Guide',
+            link: '/about/',
+          },
+          {
+            text: 'İletişim',
+            link: '/'
+          },
+          {
+            text: 'Config',
+            link: '/config/'
+          }
+        ],
+        sidebar: {
+          '/en/about/': [
+            {
+              title: 'Company',
+              collapsable: false,
+              children: [
+                ''
+              ]
+            }
+          ]
+        }
+      }
+    },
   },
 
-  /**
-   * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
-   */
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
