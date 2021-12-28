@@ -12,5 +12,3 @@ features:
   details: Feature 3 Description
 footer: Metkim 2022, © All Rights Reserved
 ---
-
-# Helloooooo

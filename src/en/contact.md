@@ -6,8 +6,8 @@
 
 **Address**: Güzeltepe Mah., Zübeyde Hanım Cad., No: 33 B16, Üsküdar-İstanbul, Turkey
 
-**Telephone Number**: [+90 216 425 14 12](+902164251412)
-**Fax**: [+90 0216 425 14 32](+902164251432)
+**Telephone Number**: [+90 216 425 14 12](tel:+902164251412)
+**Fax**: [+90 216 425 14 32](tel:+902164251432)
 
 **E-Mail**: <metkim@metkim.com>
 
@@ -32,3 +32,6 @@
   - *E-Mail*: <mert@metkim.com>
 
 [![RadComm Logo](/images/radcom.jpg)](https://www.radcommsystems.com/)
+![LogMet Logo](/images/logmet.png)
+[![TheoSteil Logo](/images/theosteil.jpg)](https://www.steil.de/)
+[![SNorton Logo](/images/snorton.jpg)](https://www.s-norton.com/)

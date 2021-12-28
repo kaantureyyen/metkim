@@ -2,10 +2,12 @@
 
 **Metkim Metal Makine Kimya San. ve Dış Tic. Ltd. Şti.**
 
+<GoogleMaps/>
+
 **Adres**: Güzeltepe Mah., Zübeyde Hanım Cad., No: 33 B16, Üsküdar-İstanbul
 
-**Tel**: 0216 425 14 12  
-**Fax**: 0216 425 14 32
+**Tel**: [+90 216 425 14 12](tel:+902164251412)  
+**Fax**: [+90 216 425 14 32](tel:+902164251432)
 
 **E-Posta**: <metkim@metkim.com>
 
@@ -29,4 +31,7 @@
   - *Cep*: [0530 615 93 63](tel:+9005306159363)
   - *E-Posta*: <mert@metkim.com>
 
-![RadCom Logo](/images/radcom.jpg)
+[![RadComm Logo](/images/radcom.jpg)](https://www.radcommsystems.com/)
+![LogMet Logo](/images/logmet.png)
+[![TheoSteil Logo](/images/theosteil.jpg)](https://www.steil.de/)
+[![SNorton Logo](/images/snorton.jpg)](https://www.s-norton.com/)

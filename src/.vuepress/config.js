@@ -35,10 +35,6 @@ module.exports = {
           {
             text: 'İletişim',
             link: '/contact/'
-          },
-          {
-            text: 'Config',
-            link: '/config/'
           }
         ],
         sidebar: {
