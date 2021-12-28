@@ -29,4 +29,4 @@
   - *Cep*: [0530 615 93 63](tel:+9005306159363)
   - *E-Posta*: <mert@metkim.com>
 
-[![RadCom Logo](/images/radcom.jpg)](https://www.radcommsystems.com/)
+![RadCom Logo](/images/radcom.jpg)
