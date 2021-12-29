@@ -1,6 +1,6 @@
 ---
 home: true
-tagline: Metkim Metal Kimya Website
+heroImage: /images/metkim_logo.png
 actionText: Siteye Giriş
 actionLink: /about/
 features:

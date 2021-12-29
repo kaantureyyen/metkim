@@ -5,7 +5,7 @@ module.exports = {
     '/': {
       lang: 'tr-TR',
       title: 'Metkim Metal Kimya',
-      description: 'Metkim Metal Kimya Websitesi'
+      description: 'Metkim Metal Makine Kimya Websitesi'
     },
     '/en/': {
       lang: 'en-US',
@@ -19,7 +19,6 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
   themeConfig: {
-    repo: 'kaantureyyen/metkim',
     smoothScroll: true,
     editLinks: false,
     logo: '/images/metkim.png',
@@ -45,20 +44,36 @@ module.exports = {
               title: 'Şirket',
               collapsable: false,
               children: [
-                '',
-                'references'
+                ''
               ]
-            }
-          ],
-          '/partners/': [
+            },
+            {
+              title: 'Ürünler',
+              collapsable: false,
+              children: [
+                'products/scrap'
+              ]
+            },
             {
               title: 'Çözüm Ortakları',
               collapsable: false,
               children: [
-                '',
+                'partners/scrap',
+                'partners/radiation',
+                'partners/engineering'
+              ]
+            },
+            {
+              title: 'Referanslarımız',
+              collapsable: false,
+              children: [
                 'references'
               ]
             }
+          ],
+          // fallback
+          '/': [
+            'contact'
           ]
         }
       },

@@ -1,6 +1,6 @@
 ---
 home: true
-tagline: Metkim Website
+heroImage: /images/metkim_logo.png
 actionText: To the website
 actionLink: /en/about/
 features:

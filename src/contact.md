@@ -31,7 +31,9 @@
   - *Cep*: [0530 615 93 63](tel:+9005306159363)
   - *E-Posta*: <mert@metkim.com>
 
-[![RadComm Logo](/images/radcom.jpg)](https://www.radcommsystems.com/)
+[![RadComm Logo](/images/radcomm.jpg)](https://www.radcommsystems.com/)
 ![LogMet Logo](/images/logmet.png)
 [![TheoSteil Logo](/images/theosteil.jpg)](https://www.steil.de/)
 [![SNorton Logo](/images/snorton.jpg)](https://www.s-norton.com/)
+[![Jiwanram Logo](/images/jiwan.jpg)](http://jiwan.com/)
+[![SDM Logo](/images/sdm.jpg)](http://en.sdmecl.com/)
