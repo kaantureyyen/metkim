@@ -51,7 +51,9 @@ module.exports = {
               title: 'Ürünler',
               collapsable: false,
               children: [
-                'products/scrap'
+                'products/scrap',
+                'products/radiation',
+                'products/ferro'
               ]
             },
             {
@@ -61,6 +63,15 @@ module.exports = {
                 'partners/scrap',
                 'partners/radiation',
                 'partners/engineering'
+              ]
+            },
+            {
+              title: 'Broşürler ve Yayınlar',
+              collapsable: false,
+              children: [
+                'publications/brochures',
+                'publications/videos',
+                'publications/articles'
               ]
             },
             {
