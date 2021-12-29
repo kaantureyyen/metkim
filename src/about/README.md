@@ -1,5 +1,7 @@
 # Hakkımızda
 
+<Carousel/>
+
 25 yılı aşkın süredir metalurji sektörünün içinde olan **METKİM**, sahip olduğu birikim ve kaynaklarla başta metalurji sektörü olmak üzere üreticilerin hammadde, yardımcı malzeme, makina ekipman ve proje ihtiyaçlarını karşılamayı hedeflemektedir.
 
 ## Alanımız

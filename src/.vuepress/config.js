@@ -19,8 +19,10 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
   ],
   themeConfig: {
+    repo: 'kaantureyyen/metkim',
     smoothScroll: true,
     editLinks: false,
+    logo: '/images/metkim.png',
     locales: {
       '/': {
         selectText: 'Diller',
