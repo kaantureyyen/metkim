@@ -4,13 +4,13 @@ module.exports = {
   locales: {
     '/': {
       lang: 'tr-TR',
-      title: 'Metkim Metal Kimya',
-      description: 'Metkim Metal Makine Kimya Websitesi'
+      title: 'Metkim',
+      description: 'Metal Makine Kimya'
     },
     '/en/': {
       lang: 'en-US',
       title: 'Metkim',
-      description: 'Metkim Official Website'
+      description: 'Metal Makine Kimya'
     }
   },
   head: [
