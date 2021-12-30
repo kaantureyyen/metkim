@@ -21,7 +21,7 @@ module.exports = {
   themeConfig: {
     smoothScroll: true,
     editLinks: false,
-    logo: '/images/metkim.png',
+    logo: '/images/metkim_logo.png',
     locales: {
       '/': {
         selectText: 'Diller',
