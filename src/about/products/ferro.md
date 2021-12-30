@@ -1,5 +1,7 @@
 # Ferro Alyajlar
 
+![Ferro Single ><](/images/singles/ferro.jpg)
+
 ## Ferro Silikon (FeSi)
 
 | Si% | Al% | C% | P% | S% |

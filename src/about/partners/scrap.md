@@ -1,5 +1,7 @@
 # Hurda HBI ve Pik Demir
 
+![Scrap Single ><](/images/singles/scrap.jpg)
+
 ## [S.NORTON Co. & Ltd, *İngiltere*](https://www.s-norton.com/)
 
 ![SNorton Logo >](/images/snorton_big.jpg)
