@@ -32,8 +32,11 @@ sidebar: false
   - *Cep*: [0542 827 68 00](tel:+905428276800)
   - *E-Posta*: <ali@metkim.com>
 - **Semih Mert ARGUN**
-  - *Cep*: [0530 615 93 63](tel:+9005306159363)
+  - *Cep*: [0530 615 93 63](tel:+905306159363)
   - *E-Posta*: <mert@metkim.com>
+- **Davut AKYOL**
+  - *Cep*: [0530 939 76 84](tel:+905309397684)
+  - *E-Posta*: <davut@metkim.com>
 
 [![RadComm Logo](/images/radcomm.jpg)](https://www.radcommsystems.com/)
 ![LogMet Logo](/images/logmet.png)

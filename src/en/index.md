@@ -4,11 +4,9 @@ heroImage: /images/metkim_logo.png
 actionText: To the website
 actionLink: /en/about/
 features:
-- title: About
-  details: Feature 1 Description
+- title: Company Overview
+  details: METKİM aims to provide the needs of machine and project, auxiliary materials, raw materials for manufacturers in the metallurgical sector with its resources and knowledge over than 25 years. METKİM has begun to operate in the fields of  iron and steel, non-ferrous, machinery and equipment not only the supply of iron steel scrap with its initiatives and new solution partner- ships in recent years.
 - title: News
   details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
 footer: Metkim 2022, © All Rights Reserved
 ---

@@ -27,7 +27,6 @@ module.exports = {
         selectText: 'Diller',
         label: 'Türkçe',
         ariaLabel: 'Diller',
-        algolia: {},
         nav: [
           {
             text: 'Rehber',
@@ -110,7 +109,38 @@ module.exports = {
               children: [
                 ''
               ]
+            },
+            {
+              title: 'Products',
+              collapsable: false,
+              children: [
+                'products/scrap',
+                'products/radiation',
+                'products/ferro'
+              ]
+            },
+            {
+              title: 'Agencies',
+              collapsable: false,
+              children: [
+                'partners/scrap',
+                'partners/radiation',
+                'partners/engineering'
+              ]
+            },
+            {
+              title: 'Brochures and Publications',
+              collapsable: false,
+              children: [
+                'publications/brochures',
+                'publications/videos',
+                'publications/articles'
+              ]
             }
+          ],
+          // fallback
+          '/': [
+            'en/contact'
           ]
         }
       }

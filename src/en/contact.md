@@ -1,4 +1,8 @@
-# Contact
+---
+sidebar: false
+---
+
+# Contact Us
 
 **Metkim Metal Makine Kimya San. ve Dış Tic. Ltd. Şti.**
 
@@ -28,8 +32,11 @@
   - *Phone No.*: [0542 827 68 00](tel:+905428276800)
   - *E-Mail*: <ali@metkim.com>
 - **Semih Mert ARGUN**
-  - *Phone No.*: [0530 615 93 63](tel:+9005306159363)
+  - *Phone No.*: [0530 615 93 63](tel:+905306159363)
   - *E-Mail*: <mert@metkim.com>
+- **Davut AKYOL**
+  - *Phone No.*: [0530 939 76 84](tel:+905309397684)
+  - *E-Mail*: <davut@metkim.com>
 
 [![RadComm Logo](/images/radcomm.jpg)](https://www.radcommsystems.com/)
 ![LogMet Logo](/images/logmet.png)

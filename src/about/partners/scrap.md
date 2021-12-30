@@ -1,4 +1,4 @@
-# Hurda HBI ve Pik Demir
+# Hurda, HBI ve Pik Demir
 
 ![Scrap Single ><](/images/singles/scrap.jpg)
 

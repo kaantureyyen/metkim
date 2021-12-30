@@ -1,5 +1,7 @@
 # Hurda, HBI ve Pik Demir
 
+<Carousel/>
+
 ## Demir-Çelik Hurdalar
 
 ### Amerikan Standartlarına Göre Hurda Çeşitleri
