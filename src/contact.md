@@ -1,3 +1,7 @@
+---
+sidebar: false
+---
+
 # İletişim
 
 **Metkim Metal Makine Kimya San. ve Dış Tic. Ltd. Şti.**
