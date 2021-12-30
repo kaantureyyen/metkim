@@ -1,7 +1,7 @@
 ---
 home: true
-heroImage: /images/metkim_logo.png
-actionText: To the website
+heroImage: /images/metkim.png
+actionText: To the Website
 actionLink: /en/about/
 features:
 - title: Company Overview
