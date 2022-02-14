@@ -2,9 +2,8 @@
   <v-carousel
     cycle
     interval="6000"
-    progress
-    hide-delimeters
-    show-arrows="false"
+    hide-delimiters
+    :show-arrows="false"
     height="250"
   >
     <v-carousel-item
