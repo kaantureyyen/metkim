@@ -25,9 +25,9 @@ export default {
     mounted: function() {
       if (this.$page.path === '/about/') {
         this.items = [
-        '/images/about_carousel/1.jpg',
-        '/images/about_carousel/2.jpg',
-        '/images/about_carousel/3.jpg'
+        './images/about_carousel/1.jpg',
+        './images/about_carousel/2.jpg',
+        './images/about_carousel/3.jpg'
       ]
       } else if (this.$page.path === '/en/about/') {
         this.items = [
