@@ -1,6 +1,6 @@
 # Mühendislik, Danışmanlık & Proje
 
-![Engineering Single ><](./images/singles/engineering.jpg)
+![Engineering Single ><](/images/singles/engineering.jpg)
 
 ## [Shandong Province Metallurgical Engineering Co., Ltd. (SDM), *Çin*](http://en.sdmecl.com/)
 
