@@ -1,6 +1,6 @@
 # Radiation Detection Systems
 
-![Radiation Single ><](/images/singles/radiation.jpg)
+![Radiation Single ><](/metkim/images/singles/radiation.jpg)
 
 ## [RadComm Radiation Detection Systems, *Canada*](https://www.radcommsystems.com/)
 

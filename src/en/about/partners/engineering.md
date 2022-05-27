@@ -1,14 +1,14 @@
 # Engineering, Consultancy & Project
 
-![Engineering Single ><](/images/singles/engineering.jpg)
+![Engineering Single ><](/metkim/images/singles/engineering.jpg)
 
 ## [Shandong Province Metallurgical Engineering Co., Ltd. (SDM), *China*](http://en.sdmecl.com/)
 
-![SDM Logo >](/images/sdm_big.jpg)
+![SDM Logo >](/metkim/images/sdm_big.jpg)
 
 ## [Jiwanram Sheoduttrai Group (Jiwan), *India*](http://jiwan.com/)
 
-![Jiwan Logo >](/images/jiwan_big.png)
+![Jiwan Logo >](/metkim/images/jiwan_big.png)
 
 Jiwanram Sheoduttrai (JS), a multi-faceted organisation engaged in industrial marketing, manufacturing and turnkey projects, provides services to a broad spectrum of industrial clients. Engaged in diverse activities for more than 100 years, JS has earned the trust of clients globally.
 

@@ -1,3 +1,3 @@
 # Videos
 
-![Video Single ><](/images/singles/videos.jpg)
+![Video Single ><](/metkim/images/singles/videos.jpg)

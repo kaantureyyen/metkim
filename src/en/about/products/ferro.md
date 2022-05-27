@@ -1,6 +1,6 @@
 # Ferro Alloys
 
-![Ferro Single ><](/images/singles/ferro.jpg)
+![Ferro Single ><](/metkim/images/singles/ferro.jpg)
 
 ## Ferro Silicon (FeSi)
 

@@ -1,6 +1,6 @@
 ---
 home: true
-heroImage: /images/metkim.png
+heroImage: /metkim/images/metkim.png
 actionText: To the Website
 actionLink: /en/about/
 features:

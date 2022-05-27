@@ -1,10 +1,10 @@
 # Radyasyon Ölçüm Sistemleri
 
-![Radiation Single ><](/images/singles/radiation.jpg)
+![Radiation Single ><](/metkim/images/singles/radiation.jpg)
 
 ## [RadComm Radiation Detection Systems, *Kanada*](https://www.radcommsystems.com/)
 
-![RadComm Logo >](/images/radcomm_big.jpg)
+![RadComm Logo >](/metkim/images/radcomm_big.jpg)
 
 Radyasyon ilk çağlardan beri vardır. Daima doğada var olan ve birlikte yaşadığımız bir olgudur. Ancak, teknolojinin ve sanayileşmenin gelişmesi, uranyum elementinin elde edilmesi ve kullanılması ile radyasyonun etkileri giderek artmıştır. Özellikle de gün geçtikçe hurda metal sevkiyatlarında radyoaktif maddelerin tespit edilmesi sıklıkla karşılaşılan genel bir problem haline gelmektedir.
   

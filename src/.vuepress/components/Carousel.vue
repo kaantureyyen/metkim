@@ -25,27 +25,27 @@ export default {
     mounted: function() {
       if (this.$page.path === '/about/') {
         this.items = [
-        '/images/about_carousel/1.jpg',
-        '/images/about_carousel/2.jpg',
-        '/images/about_carousel/3.jpg'
+        '/metkim/images/about_carousel/1.jpg',
+        '/metkim/images/about_carousel/2.jpg',
+        '/metkim/images/about_carousel/3.jpg'
       ]
       } else if (this.$page.path === '/en/about/') {
         this.items = [
-          '/images/en_about_carousel/1.jpg',
-          '/images/en_about_carousel/2.jpg',
-          '/images/en_about_carousel/3.jpg'
+          '/metkim/images/en_about_carousel/1.jpg',
+          '/metkim/images/en_about_carousel/2.jpg',
+          '/metkim/images/en_about_carousel/3.jpg'
         ]
       } else if (this.$page.path === '/about/products/scrap.html' ||
         this.$page.path === '/en/about/products/scrap.html') {
         this.items = [
-          '/images/scrap_carousel/1.jpg',
-          '/images/scrap_carousel/2.jpg'
+          '/metkim/images/scrap_carousel/1.jpg',
+          '/metkim/images/scrap_carousel/2.jpg'
         ]
       } else if (this.$page.path === '/about/products/radiation.html' ||
       this.$page.path === '/en/about/products/radiation.html') {
         this.items = [
-          '/images/radiation_carousel/1.jpg',
-          '/images/radiation_carousel/2.jpg'
+          '/metkim/images/radiation_carousel/1.jpg',
+          '/metkim/images/radiation_carousel/2.jpg'
         ]
       }
     }

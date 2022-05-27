@@ -1,14 +1,14 @@
 # Mühendislik, Danışmanlık & Proje
 
-![Engineering Single ><](/images/singles/engineering.jpg)
+![Engineering Single ><](/metkim/images/singles/engineering.jpg)
 
 ## [Shandong Province Metallurgical Engineering Co., Ltd. (SDM), *Çin*](http://en.sdmecl.com/)
 
-![SDM Logo >](/images/sdm_big.jpg)
+![SDM Logo >](/metkim/images/sdm_big.jpg)
 
 ## [Jiwanram Sheoduttrai Group (Jiwan), *Hindistan*](http://jiwan.com/)
 
-![Jiwan Logo >](/images/jiwan_big.png)
+![Jiwan Logo >](/metkim/images/jiwan_big.png)
 
 Jiwan Grup metalurji, madencilik, kimya, çimento ve enerji sektörlerine endüstriyel pazarlama, makina&ekipman imalatı,malzeme üretimi, mühendislik ve proje hizmetleri, anahtar teslim yatırım ve iyileştirme çalışmalarında hizmet  vermektedir. Jiwanram ihtiyaç duyulan endüstriyel hammadde ve ekipmanlarının satışının yanında yüksek mühendislik gereken sanayi yapılarının anahtar teslim projelerini de gerçekleştiren dünya markasıdır.
 Grup bünyesinde temsil edilen şirketler:

@@ -2,13 +2,13 @@
 
 ## Demir Çelik
 
-![Steel Single ><](/images/singles/steel.jpg)
+![Steel Single ><](/metkim/images/singles/steel.jpg)
 
 - [Endütriyel Uygulamalarda Radyasyondan Korunma](/pubs/articles/steel/radiation.pdf)
 
 ## Demir Dışı
 
-![Non-Steel Single ><](/images/singles/non-steel.jpg)
+![Non-Steel Single ><](/metkim/images/singles/non-steel.jpg)
 
 - [Magnezyum](/pubs/articles/non-steel/mag.pdf)
 - [Alüminyum Ergitme ve Tutma Süreçlerinde Enerji Prezentasyon](/pubs/articles/non-steel/1_alu.pdf)

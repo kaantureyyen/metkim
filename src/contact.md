@@ -38,9 +38,9 @@ sidebar: false
   - *Cep*: [0530 939 76 84](tel:+905309397684)
   - *E-Posta*: <davut@metkim.com>
 
-[![RadComm Logo](/images/radcomm.jpg)](https://www.radcommsystems.com/)
-![LogMet Logo](/images/logmet.png)
-[![TheoSteil Logo](/images/theosteil.jpg)](https://www.steil.de/)
-[![SNorton Logo](/images/snorton.jpg)](https://www.s-norton.com/)
-[![Jiwanram Logo](/images/jiwan.jpg)](http://jiwan.com/)
-[![SDM Logo](/images/sdm.jpg)](http://en.sdmecl.com/)
+[![RadComm Logo](/metkim/images/radcomm.jpg)](https://www.radcommsystems.com/)
+![LogMet Logo](/metkim/images/logmet.png)
+[![TheoSteil Logo](/metkim/images/theosteil.jpg)](https://www.steil.de/)
+[![SNorton Logo](/metkim/images/snorton.jpg)](https://www.s-norton.com/)
+[![Jiwanram Logo](/metkim/images/jiwan.jpg)](http://jiwan.com/)
+[![SDM Logo](/metkim/images/sdm.jpg)](http://en.sdmecl.com/)

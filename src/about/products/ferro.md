@@ -1,6 +1,6 @@
 # Ferro Alyajlar
 
-![Ferro Single ><](/images/singles/ferro.jpg)
+![Ferro Single ><](/metkim/images/singles/ferro.jpg)
 
 ## Ferro Silikon (FeSi)
 
